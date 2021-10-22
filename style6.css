@@ -1,0 +1,32 @@
+.row {
+  margin-top: 20px;
+}
+
+
+#digit {
+  display: inline-block;
+  margin-left: 20px;
+  border: 2px solid black;
+  height: 40px;
+  width: 40px;
+  font-size: 40px;
+  text-align: center;
+  cursor: pointer;
+  
+}
+
+#digit:active {
+  background: black;
+  color: white;
+}
+
+.lock {
+  background: red;
+  height: 150px;
+  width: 150px;
+  border-radius: 150px;
+  position: absolute;
+  left: 900px;
+  top: 175px;
+  cursor: pointer;
+}
