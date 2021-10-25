@@ -1,0 +1,27 @@
+/*These sections are the styling of the different*/
+ /*Top heading styling */
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+ /*Header for directions*/
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+ /* Paragraph for words*/
+p {
+  font-size: 20px;
+  text-align: center;
+   text-decoration: underline;
+}
+.active {
+  color: black;
+}
+ /*Background for words */
+div {
+  background-color: gold;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
