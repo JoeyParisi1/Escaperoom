@@ -27,7 +27,7 @@ function boxClicked(id){
     box.innerHTML = "1";
     boxes[id-1] = 1;
     if (listToString(boxes) == password){
-      title.innerHTML = "Enter this link to continue: https://codepen.io/Joeyparisi/pen/porzZGY !";
+      title.innerHTML = "Enter this link to continue: https://github.com/JoeyParisi1/Escaperoom/index2.html !";
     }
 }
 
