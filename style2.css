@@ -1,0 +1,33 @@
+#title {
+  color: goldenRod;
+  text-align: center;
+}
+body {
+  text-align:center;
+}
+p {
+  text-align:center;
+}
+/** styling for the table**/
+table, tr, td, th{
+  border: solid gold;
+  padding: 25px;
+  border-radius: 10px;
+}
+/** color for all the table**/
+th {
+  background-color: red;
+}
+
+td:hover {
+  background-color: White;
+}
+ 
+td {
+  color: gold;
+}
+
+table {
+  background-color: SaddleBrown;
+  text-align: center;
+}
