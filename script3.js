@@ -3,5 +3,5 @@ function myFunction() {
 }
 <!-- Correct fucntion for the link to the next puzzle-!>
 function myFunction2() {
-  alert("Link to next puzzle= https://github.com/JoeyParisi1/Escaperoom/index4.html");
+  alert("Link to next puzzle= https://joeyparisi1.github.io/Escaperoom/index4.html");
 }
