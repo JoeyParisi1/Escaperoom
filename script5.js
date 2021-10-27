@@ -160,7 +160,7 @@ function checkForMoveVictory(){
   } else {
     var ww = currentPlayer == 2 ? 'Computer' : 'Player';
     placeDisc(3-currentPlayer);
-    alert(ww+" win! https://github.com/JoeyParisi1/Escaperoom/Puzzle6.html");
+    alert(ww+" win! https://joeyparisi1.github.io/Escaperoom/Puzzle6.html");
     board.innerHTML = "";
     newgame();
   }
